@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zyrr95/FinalProjectSta141B/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Yuren's Data Science Page!
+#About Me. 
+I am now a senior student in UC Davis. I major in both Applied Statistics and Economics. I am now focusing on learning basic methods for data science and data visualization as well as stastical programming. Although I am new to this field, I have grown strong interests already!
 
 ### Markdown
 

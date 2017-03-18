@@ -1,35 +1,13 @@
-## Welcome to Yuren's Data Science Page!
-#About Me. 
+## Welcome to Yuren's Data Science Page!    
+![UCD](https://www.stat.ucdavis.edu/local_resources/images/header-blue1.png)
+### About Me. 
 I am now a senior student in UC Davis. I major in both Applied Statistics and Economics. I am now focusing on learning basic methods for data science and data visualization as well as stastical programming. Although I am new to this field, I have grown strong interests already!
 
-### Markdown
+### My Projects
+1.
+By the end of Winter Quarter, 2017, I had my first collaberate data science project (with Zhihan Zhu)! 
+The project is about the trending words in the last week of Feburary 2017. Our motivation is to see what are some popular words that have been covered the most during that time period. A more detailed explannation can be found in our project report. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyrr95/FinalProjectSta141B/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Info
+if you have any questions please email me at robert dot zyr0501 at gmail dot com
